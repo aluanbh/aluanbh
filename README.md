@@ -17,7 +17,8 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=29B6F6" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aluanbh&layout=compact&theme=dracula)](https://github.com/aluanbh/github-readme-stats)
 
